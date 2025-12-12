@@ -61,7 +61,7 @@ New wallet detected!
 ```bash
 # Клонируйте репозиторий
 git clone <repository-url>
-cd solana-tracker
+cd blockchainbot
 
 # Установите зависимости
 pip install python-telegram-bot aiohttp
